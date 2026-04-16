@@ -13,3 +13,4 @@ const urls = [
 	'https://www.surveycake.com/s/yXxN6',
 	'https://www.surveycake.com/s/QyGVv'
 ];
+Math.floor(Math.random() * urls.length)
